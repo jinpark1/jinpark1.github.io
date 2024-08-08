@@ -10,7 +10,7 @@ A comprehensive application to discover and manage hiking trails.
 
 A weather application built with Next.js that provides current weather information and forecasts.
 
-**[PUBLIC_nooganaega-nft-mint-master](https://github.com/jinpark1/PUBLIC_nooganaega-nft-mint-master/settings)**
+**[PUBLIC_nooganaega-nft-mint-master](https://github.com/jinpark1/PUBLIC_nooganaega-nft-mint-master)**
 
 A public repository for minting NFTs with NoogaNaega.
 
