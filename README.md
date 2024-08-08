@@ -2,25 +2,28 @@
 
 Here are some of my projects:
 
-7. [hiking-app](https://github.com/jinpark1/hiking-app?tab=readme-ov-file)
-   - A comprehensive application to discover and manage hiking trails.
+[hiking-app](https://github.com/jinpark1/hiking-app?tab=readme-ov-file)
+- A comprehensive application to discover and manage hiking trails.
 
-1. [WeatherAppNext](https://github.com/jinpark1/WeatherAppNext)
-   - A weather application built with Next.js that provides current weather information and forecasts.
+[WeatherAppNext](https://github.com/jinpark1/WeatherAppNext)
+- A weather application built with Next.js that provides current weather information and forecasts.
 
-6. [PUBLIC_nooganaega-nft-mint-master](https://github.com/jinpark1/PUBLIC_nooganaega-nft-mint-master/settings)
-   - A public repository for minting NFTs with NoogaNaega.
+[PUBLIC_nooganaega-nft-mint-master](https://github.com/jinpark1/PUBLIC_nooganaega-nft-mint-master/settings)
+- A public repository for minting NFTs with NoogaNaega.
 
-8. [nft-smart-contract-goerli](https://github.com/jinpark1/nft-smart-contract-goerli/blob/main/NoogaNaega.sol)
-   - Smart contract written in Solidity for minting NFTs on the Goerli test network.
+[nft-smart-contract-goerli](https://github.com/jinpark1/nft-smart-contract-goerli)
+- Smart contract written in Solidity for minting NFTs on the Goerli test network.
 
-9. [Next.js](https://github.com/jinpark1/Next.js)
-   - A repository for experimenting with and showcasing projects built using Next.js.
+[Next.js](https://github.com/jinpark1/Next.js)
+- A repository for experimenting with and showcasing projects built using Next.js.
 
+[jobcoin](https://github.com/jinpark1/jobcoin)
+- A cryptocurrency project focused on creating and managing Jobcoins, complete with transaction tracking and wallet functionalities.
 
+[Adventure-Project](https://github.com/jinpark1/Adventure-Project)
+- The Adventure Project, a web application for managing and planning adventures.
 
-12. [jobcoin](https://github.com/jinpark1/jobcoin)
-    - A cryptocurrency project focused on creating and managing Jobcoins, complete with transaction tracking and wallet functionalities.
-   
-11. [Adventure-Project-Deploy](https://github.com/jinpark1/Adventure-Project-Deploy)
-    - Deployment project for the Adventure Project, a web application designed to manage and plan adventures.
+[webproject](https://github.com/jinpark1/webproject?tab=readme-ov-file)
+- A web project repository showcasing various web development techniques and implementations.
+
+Feel free to explore these projects and check out the code on my GitHub!
