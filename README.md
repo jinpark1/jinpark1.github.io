@@ -1,6 +1,6 @@
 ## My Projects
 
-Here are some of my projects:
+With some descriptions.
 
 ---
 
