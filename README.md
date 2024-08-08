@@ -29,7 +29,6 @@
 [GitHub](https://github.com)
 
 ### Images
-![Alt Text](URL)
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ### Blockquotes
