@@ -4,11 +4,6 @@ With some descriptions.
 
 ---
 
-## [hiking-app](https://github.com/jinpark1/hiking-app?tab=readme-ov-file)
-A comprehensive application to discover and manage hiking trails.
-
----
-
 ## [WeatherAppNext](https://github.com/jinpark1/WeatherAppNext)
 A weather application built with Next.js that provides current weather information and forecasts.
 
