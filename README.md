@@ -24,8 +24,8 @@ A repository for experimenting with and showcasing projects built using Next.js.
 
 ---
 
-## [jobcoin](https://github.com/jinpark1/jobcoin)
-A cryptocurrency project focused on creating and managing Jobcoins, complete with transaction tracking and wallet functionalities.
+## [coin-app](https://github.com/jinpark1/coinapp)
+A project focused on creating and managing Jobcoins, complete with transaction tracking and wallet functionalities.
 
 ---
 
