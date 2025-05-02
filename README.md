@@ -4,6 +4,11 @@ With some descriptions.
 
 ---
 
+## [Water App](https://github.com/jinpark1/water-server)
+A project to test capabilities of AI by removing watermark in videos.
+
+---
+
 ## [WeatherAppNext](https://github.com/jinpark1/WeatherAppNext)
 A weather application built with Next.js that provides current weather information and forecasts.
 
